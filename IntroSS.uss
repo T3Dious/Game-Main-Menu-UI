@@ -1,0 +1,20 @@
+VisualElement {
+}
+
+.Button {
+}
+
+Button:hover {
+    border-left-color: rgba(253, 217, 181, 0.5);
+    border-left-width: 1px;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-top-left-radius: 1px;
+    border-top-right-radius: 1px;
+    border-bottom-right-radius: 1px;
+    border-bottom-left-radius: 1px;
+    border-bottom-color: rgba(253, 217, 181, 0.5);
+    border-top-color: rgba(253, 217, 181, 0.5);
+    border-right-color: rgba(253, 217, 181, 0.5);
+}
